@@ -1,0 +1,6 @@
+{
+  "name": "Smart Diagnostics",
+  "description": "Diagnostics workflow and issue escalation for connected smart home IoT devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
